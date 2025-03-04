@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔧 Skills:<br>🌍 Intrests: Java Full Stack Developer, React Developer, Java Developer<br>💻 Programming Languages: HTML, CSS, JavaScript, Java<br>🚀Technologies: ReactJS, MySQL<br>🛠️ Other Technologies: VS Code, IntelliJ IDEA<br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: ReactJS Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs<br>🗃️ Deepening my understanding of MySQL for efficient data handling
+🔧 Skills:<br>💻 Programming Languages: HTML, CSS, JavaScript, Java, SQL<br>🚀Technologies: ReactJS, MySQL<br>🛠️ Other Technologies: VS Code, IntelliJ IDEA<br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: ReactJS Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs<br>🗃️ Deepening my understanding of MySQL for efficient data handling
 
 
 ## 🌐 Socials:
