@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔧 Skills:<br>💻 Programming Languages: HTML, CSS, JavaScript<br> Frame Work: ReactJS<br>🛠️ Other Technologies: GitHub, VS Code <br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: ReactJS Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs<br>🗃️ Deepening my understanding of MySQL for efficient data handling
+🔧 Skills:<br>💻 Programming Languages: HTML, CSS, JavaScript<br> Frame Work: ReactJS<br>🛠️ Other Technologies: GitHub, VS Code <br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: ReactJS Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs<br>🗃️ Deepening my understanding of MySQL for efficient data handling <br> Resume : pradeeppresume.netlify.app
 
 
 ## 🌐 Socials:
