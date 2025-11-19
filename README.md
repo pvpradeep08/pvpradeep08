@@ -1,20 +1,62 @@
-                                      Hi 👋, I'm PRADEEP
+# PRADEEP P
 
-                             Java FullStack Developer
+**Bangalore, India**  |  +91 9361641262  |  pradeepperiyasamy07@gmail.com  
+[github.com/pvpradeep08](https://github.com/pvpradeep08)  |  [linkedin.com/in/pradeep-periyasamy-743451334](https://linkedin.com/in/pradeep-periyasamy-743451334)
 
+---
 
-# 💫 About Me:
-🔧 Skills:<br>💻 Programming Languages: HTML, CSS, JavaScript<br> Frame Work: ReactJS<br>🛠️ Other Technologies: GitHub, VS Code <br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: ReactJS Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs<br>🗃️ Deepening my understanding of MySQL for efficient data handling <br> Resume : https://pradeeppresume.netlify.app/
+### Java Full Stack Developer
 
+Full Stack Developer skilled in **Java, Spring Boot, REST APIs, MySQL, Hibernate, and React.js**.  
+Experienced in backend development, API design, authentication, and responsive UI design.  
+Strong problem-solver and fast learner with hands-on full-stack project experience.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradeep-periyasamy-743451334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeepperiyasamy07@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=pvpradeep08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pvpradeep08&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpradeep08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ⚙️ Technical Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Backend:** Java 8, Spring Boot, Hibernate/JPA, Spring MVC  
+- **Frontend:** React.js, JavaScript (ES6), HTML5, CSS3  
+- **Database:** MySQL, SQL  
+- **Version Control:** Git, GitHub  
+
+---
+
+### 🏢 Experience
+
+**Full Stack Developer Intern – Bounty Hunt Force**  
+_Mar 2025 – Sep 2025_
+- Developed backend modules for a Tractor Rental System using Java, Spring Boot, and MySQL.
+- Built REST APIs for user accounts, vehicle operations, authentication, and booking workflows.
+- Implemented secure JWT-based authentication using Spring Security.
+- Performed CRUD operations using Hibernate/JPA with proper mapping and validations.
+- Improved API performance by optimizing queries and refining response handling.
+
+---
+
+### 🚀 Projects
+
+**Go Rental – Full-Stack Vehicle Rental Platform**  
+*Tech Stack: Java, Spring Boot, ReactJs, MySQL, REST APIs*
+- Developed a complete vehicle rental platform with listing, booking, and authentication features.
+- Created REST APIs for vehicles, bookings, and user operations using Spring Boot.
+- Integrated MultipartFile-based image upload and retrieval for vehicles.
+- Built responsive UI screens with React.js and React Router for smooth navigation.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering – Computer Science and Engineering**  
+Anna University – Imayam College of Engineering, Trichy  
+**CGPA:** 7.61
+
+---
+
+### 📜 Certifications & Training
+
+**Full Stack Development – Besant Technologies**  
+_Oct 2024 – May 2025_
+- Trained in Java programming, OOPs principles, and database management.
+- Hands-on experience developing apps using React.js, Java, MySQL, RESTful APIs.
+- Applied skills through multiple full-stack projects, including Go Rental demonstrating end-to-end development.
