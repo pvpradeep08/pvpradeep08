@@ -1,6 +1,6 @@
                                       Hi 👋, I'm PRADEEP
 
-                             Front-End Developer | React Enthusiast
+                             Java FullStack Developer
 
 
 # 💫 About Me:
