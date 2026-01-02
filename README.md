@@ -20,20 +20,6 @@ Strong problem-solver and fast learner with hands-on full-stack project experien
 - **Database:** MySQL, SQL  
 - **Version Control:** Git, GitHub  
 
----
-
-### 🏢 Experience
-
-**Full Stack Developer Intern – Bounty Hunt Force**  
-_Mar 2025 – Sep 2025_
-- Developed backend modules for a Tractor Rental System using Java, Spring Boot, and MySQL.
-- Built REST APIs for user accounts, vehicle operations, authentication, and booking workflows.
-- Implemented secure JWT-based authentication using Spring Security.
-- Performed CRUD operations using Hibernate/JPA with proper mapping and validations.
-- Improved API performance by optimizing queries and refining response handling.
-
----
-
 ### 🚀 Projects
 
 **Go Rental – Full-Stack Vehicle Rental Platform**  
